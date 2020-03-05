@@ -33,6 +33,7 @@ export const Wrapper = styled(Container)`
         border-color: ${teal};
         border-right-color: transparent;
     }
+
 `
 
 export const FormWrapper = styled(Form)`
